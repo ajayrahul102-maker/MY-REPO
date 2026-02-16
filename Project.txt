@@ -1,0 +1,17 @@
+# Git Practice Project
+
+This is a simple project to practice Git commands.
+
+## Features
+- Basic Python app
+- Config file
+- Feature and bugfix branches
+
+## Tasks to Practice
+- Create branches
+- Merge branches
+- Resolve conflicts
+- Use stash
+- Revert commits
+10.15.198.105
+
